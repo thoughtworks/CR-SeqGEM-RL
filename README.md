@@ -1,4 +1,4 @@
-[![CR-SeqGEM-RL](https://github.com/viveksinghTW/CR-SeqGEM-RL/actions/workflows/python-app_conda.yml/badge.svg)](https://github.com/viveksinghTW/CR-SeqGEM-RL/actions/workflows/python-app_conda.yml)
+[![CR-SeqGEM-RL](https://github.com/thoughtworks/CR-SeqGEM-RL/actions/workflows/python-app_conda.yml/badge.svg)](https://github.com/thoughtworks/CR-SeqGEM-RL/actions/workflows/python-app_conda.yml)
 
 # CR-SeqGEM-RL: Cellular Reprogramming by optimizing Sequential Gene Expression Modulation using Reinforcement Learning
 A computational method to predict sequential gene expression modulation for targeted cellular reprogramming is presented. The method integrates: (1) a Boolean model of the concerned gene regulatory network (GRN); and (2) a reinforcement learning (RL) based model for optimization. The Boolean model is used to capture the dynamic behavior of the GRN and to understand how the gene expression modulation alters its behavior. RL model is used to optimize sequential decision-making of predicting the suitable sequence of gene expression modulation.
